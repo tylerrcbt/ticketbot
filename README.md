@@ -10,7 +10,7 @@
   
 <kbd>Remove users.
 
-You found a bug and couldn't fix it , You don't understand anything.
+*You found a bug and couldn't fix it , You don't understand anything.
 Feel free to message me on discord - tylerr#4047
 
 <h1>Have FUN</h1>

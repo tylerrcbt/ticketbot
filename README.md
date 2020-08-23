@@ -1,1 +1,1 @@
-<h1>Ticket bot - Control your discord with ticket bot!</h1>
+<h2>Ticket bot - Control your discord with ticket bot!</h2>

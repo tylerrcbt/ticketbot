@@ -1,1 +1,1 @@
-[x]<h6>Ticket bot - Easy to use.</h6>
+<h1>Ticket bot - Easy to use.</h1>

@@ -8,6 +8,6 @@
 <li>Close tickets.</li></ul>
 
 You found a bug and couldn't fix it , You don't understand anything.
-Feel free to message me on discord - tylerr#4047
+Feel free to message me on discord - <kbd>tylerr#4047
 
 <h2>Have FUN</h2>

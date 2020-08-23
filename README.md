@@ -1,9 +1,9 @@
 <h2>Ticket bot - Control your discord with ticket bot!</h2>
 
-Features
+<h3>Features</h3>
 
 >Create ticket.
->Close ticket.
+<details>Close ticket.
 >Add users.
 >Remove users.
 

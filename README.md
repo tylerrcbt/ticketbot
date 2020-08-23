@@ -1,1 +1,1 @@
-<h1>Ticket bot - Easy to use.</h1>
+<h1>Ticket bot - Control your tickets without auto installation!</h1>

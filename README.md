@@ -1,1 +1,1 @@
-<h1>Ticket bot - Control your tickets without auto installation!</h1>
+<h1>Ticket bot - Control your discord with ticket bot!</h1>

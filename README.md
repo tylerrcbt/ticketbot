@@ -3,7 +3,7 @@
 <h3>Features</h3>
 
 >Create ticket.
-<details>Close ticket.
+Close ticket.
 >Add users.
 >Remove users.
 

@@ -1,2 +1,2 @@
 # ticketbot
-ticketbot easy to use (without auto installation).
+<h6>Ticket bot - Easy to use.</h6>
